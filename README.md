@@ -1,8 +1,6 @@
-<h1 align="center">
-  <b> notebook: <i> <a href="#"> algorithms </a> </i> </b>
-</h1>
+# [**_`Notebook: Algorithms`_**](#notebook-algorithms)
 
-Notebook to algorithms and data structures study.
+Notebook to study algorithms and data structures.
 
 The main text-book/reference is the **Algorithms + Data Structures = Programs**,
 by Niklaus Wirth.
